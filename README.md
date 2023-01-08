@@ -1,6 +1,8 @@
 ### Olá, sou Michel 👋
 
-🌱 Estudante de Python e Segurança da Informação.
+🌱 Estudando linguagem Python e Segurança da Informação.
+
+  ##
 
 <div align="center">
   <a href="https://github.com/michelvittoria">
