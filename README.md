@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-### Boas vindas ao meu perfil 👋
+### Boas vindas ao meu perfil :rocket:
 
-🌱 Estudando linguagem Python e Segurança da Informação.
+:fire: Estudante de linguagem Python e Segurança da Informação.
 
   ##
 
