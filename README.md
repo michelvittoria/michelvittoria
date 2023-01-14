@@ -7,7 +7,6 @@
   ##
 
 <div align="center">
-  <a href="https://github.com/michelvittoria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=tokyonight"/>
 </div>
   
