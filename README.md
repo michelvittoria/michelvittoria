@@ -7,8 +7,8 @@
   ##
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=tokyonight"/>
-   <img alt="Ally-Stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=tokyonight"/>
+   <img alt="Ally-Stats" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=tokyonight"/>
 </div>
   
   ##
