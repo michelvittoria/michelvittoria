@@ -6,7 +6,7 @@
 
   ##
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=tokyonight"/>
    <img alt="Ally-Stats" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=tokyonight"/>
 </div>
