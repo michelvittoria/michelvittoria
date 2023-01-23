@@ -29,6 +29,6 @@
 <br>
 </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=483D8B&height=30&section=header" />
+ <img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=483D8B&height=30&section=header" />
 
   
