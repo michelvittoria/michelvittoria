@@ -2,7 +2,7 @@
 
 ### Boas vindas ao meu perfil :rocket:
 
-:fire: Estudante de linguagem Python, Redes Neurais e Segurança da Informação...
+:fire: Estudante de linguagem Python, Redes Neurais e Segurança da Informação....
 
   ##
 
