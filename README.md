@@ -2,7 +2,7 @@
 
 ### Boas vindas ao meu perfil :rocket:
 
-:fire: Estudante de linguagem Python e Segurança da Informação...
+:fire: Pesquisador de Inteligência Artificial e Segurança da Informação...
 
   ##
 
