@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🤖-IA%20%26%20Machine%20Learning-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/🔒-Cybersecurity%20Research-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/📊-Análise%20de%20Dados-45B7D1?style=flat-square" />
 </p>
 
 <!-- Quote -->
