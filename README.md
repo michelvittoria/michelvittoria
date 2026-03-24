@@ -52,18 +52,24 @@
 <!-- GitHub Activity -->
 ## 📈 Atividade no GitHub
 
-<div align="center">
-  
 <table>
   <tr>
     <td width="50%">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=michelvittoria&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff" />
     </td>
     <td width="50%">
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=tokyonight&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=radical&hide_border=true&background=0d1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" />
     </td>
   </tr>
 </table>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF6B6B&line=4ECDC4&point=45B7D1&title_color=FF6B6B" />
 
 </div>
 
