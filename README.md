@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=200&section=header&text=Michel%20Vittória&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Cybersecurity%20Researcher&descAlignY=55&descAlign=62" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=header" alt="Header Banner"/>
 </div>
 
 <!-- Profile Header -->
@@ -97,14 +97,11 @@
   
   <table align="center">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
       </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages">
-      </td>
-      <td align="center" width="33%">
-        <img src="https://streak-stats.demolab.com/?user=michelvittoria&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak">
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
       </td>
     </tr>
   </table>
@@ -112,7 +109,7 @@
   <br>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=radical&hide_border=true&bg_color=00000000" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%">
   
 </div>
 
@@ -140,11 +137,8 @@
   
   ### 📁 Outros Repositórios
   <div align="center">
-    <a href="https://github.com/michelvittoria/llm-cluster-proxy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=llm-cluster-proxy&theme=radical&hide_border=true&bg_color=00000000" alt="LLM Cluster Proxy">
-    </a>
-    <a href="https://github.com/michelvittoria/llm-cluster-proxy-frontend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=llm-cluster-proxy-frontend&theme=radical&hide_border=true&bg_color=00000000" alt="LLM Cluster Proxy Frontend">
+    <a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=radical&hide_border=true" alt="LLM Cluster Proxy">
     </a>
   </div>
   
@@ -215,6 +209,6 @@
   <br>
   
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer&reversal=true" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=100&section=footer&reversal=true" alt="Footer Banner"/>
   
 </div>
