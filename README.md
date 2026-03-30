@@ -33,7 +33,7 @@
 
 <div align="center">
 
-💡 **Apaixonado por** `Inteligência Artificial` e `Segurança da Informação`
+💡 **Pesquisador** `Inteligência Artificial` e `Segurança da Informação`
 
 🔐 **Foco em** desenvolver sistemas inteligentes seguros e resilientes 
 
