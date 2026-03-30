@@ -1,214 +1,187 @@
-<!-- Header Banner -->
+<!-- Header Banner - Green Fire Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=header" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:39ff14,100:00ff41&height=250&section=header&text=Michel%20Vittória&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Pesquisador%20em%20IA%20%26%20Cibersegurança&descAlignY=65&descAlign=50" alt="Header Banner"/>
 </div>
 
-<!-- Profile Header -->
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Inteligência+Artificial;Segurança+da+Informação;Machine+Learning;Pentesting+%26+Red+Team;LLMs+%26+Automação;Proteção+de+Sistemas" alt="Typing Animation"/>
+</div>
+
+<br>
+
+<!-- Profile Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖-IA%20%26%20ML-00ff00?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="AI Badge"/>
+  <img src="https://img.shields.io/badge/🛡️-Cibersegurança-00ff41?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Cybersecurity Badge"/>
+  <img src="https://img.shields.io/badge/🔬-Pesquisador-39ff14?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Researcher Badge"/>
+</div>
+
+<br>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=michelvittoria&label=Profile%20Views&color=39ff14&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/michelvittoria?color=00ff41&label=Seguidores&style=for-the-badge&labelColor=0d1117" alt="GitHub Followers"/>
+</div>
+
+<br>
+
+---
+
+## 🧠 Sobre Mim
+
+<div align="center">
+
+💡 **Apaixonado por** `Inteligência Artificial` e `Segurança da Informação`
+
+🔐 **Foco em** desenvolver sistemas inteligentes seguros e resilientes
+
+🌐 **Localização** Santa Catarina, Brasil
+
+</div>
+
+<!-- About Cards -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🎯 Áreas de Pesquisa
+
+- 🤖 **IA & Machine Learning**
+  - Modelos de Linguagem (LLMs)
+  - Aprendizado por Reforço
+  - Visão Computacional
+  - Processamento de Linguagem Natural
+  
+- 🛡️ **Cibersegurança**
+  - Pentesting & Red Teaming
+  - Análise de Malware
+  - Segurança de Aplicações
+  - Forense Digital
+  
+    </td>
+    <td width="50%" valign="top">
+      
+### 🚀 Atualmente
+
+🎓 **Estudando**
+```
+Advanced Threat Intelligence
+```
+
+🔬 **Pesquisando**
+```
+LLMs para Detecção de Ameaças
+```
+
+🤝 **Buscando**
+```
+Colaborações em IA + Cyber
+```
+
+📬 **Contato**
+```
+michel.vittoria@gmail.com
+```
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Projetos & Pesquisas
+
+<div align="center">
+
+### 🌟 Em Destaque
+
+<a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=chartreuse-dark&hide_border=true&title_color=39ff14&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" alt="LLM Cluster Proxy"/>
+</a>
+
+</div>
+
+<!-- Projects Grid -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 IA & Automação</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" alt="Python"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117" alt="PyTorch"/>
+      <br><br>
+      <i>Modelos de linguagem e sistemas inteligentes</i>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ Segurança & Pentest</h3>
+      <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117" alt="Kali"/>
+      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=0d1117" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0d1117" alt="Burp"/>
+      <br><br>
+      <i>Análise de vulnerabilidades e testes de invasão</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
   
-  ## 👨‍💻 Michel Vittória
-  
-  ### 🎓 Pesquisador em IA & Cibersegurança
-  #### 🌎 Santa Catarina, Brasil
-  
-  <br>
-  
-  <!-- Specialization Badges -->
-  <div align="center">
-    <img src="https://img.shields.io/badge/IA%20%26%20Machine%20Learning-Expert-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" alt="AI & ML Expert">
-    <img src="https://img.shields.io/badge/Cibersegurança-Advanced-FF6B6B?style=for-the-badge&logo=lock&logoColor=white" alt="Cybersecurity Advanced">
-    <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Software-Professional-483D8B?style=for-the-badge&logo=github&logoColor=white" alt="Software Development">
-  </div>
-  
-  <br>
-  
-  <!-- Quote -->
-  <div align="center" style="border-left: 4px solid #483D8B; padding-left: 15px; margin: 20px 0;">
-    <i>"Sistemas inteligentes seguros e éticos são o futuro da tecnologia."</i>
-  </div>
-  
+<!-- Stats -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=39ff14&icon_color=00ff41&text_color=ffffff&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=00ff41&currStreakLabel=39ff14&sideLabels=39ff14&currStreakNum=00ff41&sideNums=00ff41&dates=ffffff" alt="GitHub Streak"/>
+
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=chartreuse-dark&hide_border=true&color=39ff14&line=00ff41&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="98%"/>
+
 </div>
 
 ---
 
-<!-- Contact Section -->
+## 🌐 Conecte-se
+
 <div align="center">
-  
-  ## 📫 Conecte-se Comigo
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="140">
-        <a href="https://www.linkedin.com/in/michelvittoria/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="https://www.instagram.com/michel.cervejeiro/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-      </td>
-      <td align="center" width="140">
-        <a href="mailto:michel.vittoria@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-</div>
 
----
+<!-- Contact Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=0d1117)](https://www.linkedin.com/in/michelvittoria/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=39ff14&labelColor=0d1117)](https://www.instagram.com/michel.cervejeiro/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=0d1117)](mailto:michel.vittoria@gmail.com)
 
-<!-- Research Areas -->
-<div align="center">
-  
-  ## 🔬 Áreas de Pesquisa
-  
-  <table align="center">
-    <tr>
-      <th align="center" width="50%">🤖 IA & Machine Learning</th>
-      <th align="center" width="50%">🛡️ Cibersegurança</th>
-    </tr>
-    <tr>
-      <td align="center">
-        • Modelos de Linguagem (LLMs)<br>
-        • Aprendizado por Reforço<br>
-        • Visão Computacional<br>
-        • Processamento de Linguagem Natural
-      </td>
-      <td align="center">
-        • Segurança de Aplicações Web<br>
-        • Pentesting & Red Teaming<br>
-        • Análise de Malware<br>
-        • Segurança em Nuvem
-      </td>
-    </tr>
-  </table>
-  
-</div>
+<br>
 
----
+### 🤝 Vamos Colaborar!
 
-<!-- GitHub Stats -->
-<div align="center">
-  
-  ## 📊 Estatísticas do GitHub
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%">
-  
-</div>
+<i>Estou sempre aberto a discutir pesquisas em IA, projetos de segurança cibernética e oportunidades de colaboração.</i>
 
----
+<br>
 
-<!-- Recent Projects -->
-<div align="center">
-  
-  ## 🚀 Projetos Recentes
-  
-  ### 🔗 [LLM Cluster Proxy](https://github.com/michelvittoria/llm-cluster-proxy)
-  **Proxy inteligente para distribuição de requisições entre múltiplos modelos de linguagem**
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  ### 📁 Outros Repositórios
-  <div align="center">
-    <a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=radical&hide_border=true" alt="LLM Cluster Proxy">
-    </a>
-  </div>
-  
-</div>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michelvittoria/michelvittoria/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michelvittoria/michelvittoria/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michelvittoria/michelvittoria/output/github-contribution-grid-snake.svg">
+</picture>
 
----
-
-<!-- Tools & Platforms -->
-<div align="center">
-  
-  ## 🛠️ Ferramentas & Plataformas
-  
-  <table align="center">
-    <tr>
-      <th align="center">Linguagens</th>
-      <th align="center">Frameworks</th>
-      <th align="center">Ferramentas</th>
-      <th align="center">Plataformas</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"><br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"><br>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"><br>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
+<br>
 
 <!-- Footer -->
-<div align="center">
-  
-  ## 🤝 Vamos Colaborar!
-  
-  <p>
-    Estou sempre aberto a novas oportunidades de pesquisa, projetos colaborativos e discussões sobre IA e segurança cibernética.
-  </p>
-  
-  <p>
-    <i>Se você tem uma ideia interessante ou quer discutir tecnologia, não hesite em entrar em contato!</i>
-  </p>
-  
-  <br>
-  
-  <!-- Visitor Counter -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=michelvittoria&color=483D8B&style=flat-square" alt="Profile Views">
-  </div>
-  
-  <br>
-  
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=100&section=footer&reversal=true" alt="Footer Banner"/>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:39ff14,100:00ff00&height=120&section=footer&reversal=true" alt="Footer Banner"/>
+
 </div>
