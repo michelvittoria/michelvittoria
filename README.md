@@ -135,16 +135,16 @@ michel.vittoria@gmail.com
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=39ff14&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=39ff14&sideNums=39ff14&dates=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=00ff00&fire=39ff14&dates=ffffff" alt="GitHub Streak"/>
 
 <br>
 
