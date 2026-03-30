@@ -35,9 +35,8 @@
 
 💡 **Apaixonado por** `Inteligência Artificial` e `Segurança da Informação`
 
-🔐 **Foco em** desenvolver sistemas inteligentes seguros e resilientes
+🔐 **Foco em** desenvolver sistemas inteligentes seguros e resilientes 
 
-🌐 **Localização** Santa Catarina, Brasil
 
 </div>
 
