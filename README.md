@@ -1,11 +1,11 @@
 <!-- Header Banner - Green Fire Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:39ff14,100:00ff41&height=250&section=header&text=Michel%20Vittória&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Pesquisador%20em%20IA%20%26%20Cibersegurança&descAlignY=65&descAlign=50" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Michel%20Vittória&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Inteligência+Artificial;Segurança+da+Informação;Machine+Learning;Pentesting+%26+Red+Team;LLMs+%26+Automação;Proteção+de+Sistemas" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Inteligência+Artificial;Segurança+da+Informação;Machine+Learning;Pentesting+%26+Red+Team;LLMs+%26+Automação;Proteção+de+Sistemas" alt="Typing Animation"/>
 </div>
 
 <br>
