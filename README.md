@@ -12,17 +12,17 @@
 
 <!-- Profile Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖-IA%20%26%20ML-00ff00?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="AI Badge"/>
-  <img src="https://img.shields.io/badge/🛡️-Cibersegurança-00ff41?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Cybersecurity Badge"/>
-  <img src="https://img.shields.io/badge/🔬-Pesquisador-39ff14?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Researcher Badge"/>
+  <img src="https://img.shields.io/badge/🤖-IA%20%26%20ML-006400?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="AI Badge"/>
+  <img src="https://img.shields.io/badge/🛡️-Cibersegurança-006400?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Cybersecurity Badge"/>
+  <img src="https://img.shields.io/badge/🔬-Pesquisador-006400?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Researcher Badge"/>
 </div>
 
 <br>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=michelvittoria&label=Profile%20Views&color=39ff14&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/michelvittoria?color=00ff41&label=Seguidores&style=for-the-badge&labelColor=0d1117" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=michelvittoria&label=Profile%20Views&color=006400&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/michelvittoria?color=006400&label=Seguidores&style=for-the-badge&labelColor=0d1117" alt="GitHub Followers"/>
 </div>
 
 <br>
@@ -85,7 +85,7 @@ Colaborações em IA + Cyber
 michel.vittoria@gmail.com
 ```
 
-    </td>
+    
   </tr>
 </table>
 
