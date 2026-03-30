@@ -85,7 +85,7 @@ Colaborações em IA + Cyber
 michel.vittoria@gmail.com
 ```
 
-    </td>
+    
   </tr>
 </table>
 
