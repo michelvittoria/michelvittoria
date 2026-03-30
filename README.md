@@ -21,8 +21,8 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=michelvittoria&label=Profile%20Views&color=39ff14&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/michelvittoria?color=00ff41&label=Seguidores&style=for-the-badge&labelColor=0d1117" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=michelvittoria&label=Profile%20Views&color=006400&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/michelvittoria?color=006400&label=Seguidores&style=for-the-badge&labelColor=0d1117" alt="GitHub Followers"/>
 </div>
 
 <br>
