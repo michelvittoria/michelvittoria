@@ -98,7 +98,7 @@ michel.vittoria@gmail.com
 ### 🌟 Em Destaque
 
 <a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=chartreuse-dark&hide_border=true&title_color=39ff14&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" alt="LLM Cluster Proxy"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="LLM Cluster Proxy"/>
 </a>
 
 </div>
@@ -135,21 +135,21 @@ michel.vittoria@gmail.com
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=39ff14&icon_color=00ff41&text_color=ffffff&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michelvittoria&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=00ff41&currStreakLabel=39ff14&sideLabels=39ff14&currStreakNum=00ff41&sideNums=00ff41&dates=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=39ff14&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=39ff14&sideNums=39ff14&dates=ffffff" alt="GitHub Streak"/>
 
 <br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=chartreuse-dark&hide_border=true&color=39ff14&line=00ff41&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=00ff00&line=39ff14&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="98%"/>
 
 </div>
 
@@ -172,16 +172,11 @@ michel.vittoria@gmail.com
 
 <br>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michelvittoria/michelvittoria/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michelvittoria/michelvittoria/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michelvittoria/michelvittoria/output/github-contribution-grid-snake.svg">
-</picture>
+### 🤝 Vamos Colaborar!
+
+<i>Estou sempre aberto a discutir pesquisas em IA, projetos de segurança cibernética e oportunidades de colaboração.</i>
 
 <br>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:39ff14,100:00ff00&height=120&section=footer&reversal=true" alt="Footer Banner"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer&reversal=true" alt="Footer Banner"/>
