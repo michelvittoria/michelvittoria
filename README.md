@@ -99,7 +99,9 @@ michel.vittoria@gmail.com
 <a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="LLM Cluster Proxy"/>
 </a>
-
+<a href="https://github.com/michelvittoria/openclaw-security">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=openclaw-security&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="OpenClaw Security Analyst"/>
+</a>
 </div>
 
 <!-- Projects Grid -->
