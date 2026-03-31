@@ -47,7 +47,7 @@ Atuo na interseção entre **LLMs**, **Machine Learning** e **Cibersegurança**,
 - **Buscando**: Colaborações em projetos de IA + Cibersegurança  
 
 **Contato:**  
-📧 [michel.vittoria@gmail.com](mailto:michel.vittoria@techrealm.com.br)
+📧 [michel.vittoria@techrealm.com.br](mailto:michel.vittoria@techrealm.com.br)
 
 ---
 
