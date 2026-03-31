@@ -143,25 +143,16 @@ michel.vittoria@gmail.com
 
 <table align="center">
 
-  <tr>
-
-    <td align="center" width="50%">
-
-      <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&v=3" alt="GitHub Stats"/>
-
-    </td>
-
-    <td align="center" width="50%">
-
-      <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&v=3" alt="Top Languages"/>
-
-    </td>
-
-  </tr>
-
-</table>
-
-
+<table align="center" border="0">
+    <tr>
+      <td align="center" style="padding: 5px;">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&v=3" alt="GitHub Stats" height="170px"/>
+      </td>
+      <td align="center" style="padding: 5px;">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&v=3" alt="Top Languages" height="170px"/>
+      </td>
+    </tr>
+  </table>
 
 <p align="center">
 
