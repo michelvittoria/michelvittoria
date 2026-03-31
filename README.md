@@ -94,16 +94,22 @@ michel.vittoria@gmail.com
 
 <div align="center">
 
-### 🌟 Em Destaque
-
-<p align="center">
-  <a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="LLM Cluster Proxy"/>
-  </a>
-  <a href="https://github.com/michelvittoria/openclaw-security">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michelvittoria&repo=openclaw-security&theme=dark&hide_border=true&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="OpenClaw Security Analyst"/>
-  </a>
-</p>
+<div align="center">
+  <h3>🌟 Repositórios em Destaque</h3>
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/michelvittoria/LLM-Cluster-Proxy-LiteLLM-OpenCode">
+          <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=michelvittoria&repo=LLM-Cluster-Proxy-LiteLLM-OpenCode&theme=dark&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="LLM Cluster Proxy"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/michelvittoria/openclaw-security">
+          <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=michelvittoria&repo=openclaw-security&theme=dark&title_color=00ff00&icon_color=39ff14&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="OpenClaw Security Analyst"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Projects Grid -->
