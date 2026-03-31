@@ -138,18 +138,17 @@ michel.vittoria@gmail.com
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats2-git-depend-4754e9-michelvittorias-projects.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats2-git-depend-4754e9-michelvittorias-projects.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=00ff00&fire=39ff14&dates=ffffff" alt="GitHub Streak"/>
-
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=00ff00&fire=39ff14&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</p>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=00ff00&line=39ff14&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="98%"/>
