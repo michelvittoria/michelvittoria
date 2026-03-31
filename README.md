@@ -138,11 +138,10 @@ michel.vittoria@gmail.com
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats2-michelvittorias-projects.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats2-michelvittorias-projects.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&v=1" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats2-michelvittorias-projects.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-    </td>
+<img src="https://github-readme-stats2-michelvittorias-projects.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&v=1" alt="Top Languages"/>    </td>
   </tr>
 </table>
 
