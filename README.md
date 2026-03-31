@@ -135,7 +135,15 @@ michel.vittoria@gmail.com
 <div align="center">
   
 <!-- Stats -->
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats2-michelvittorias-projects.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&v=1" alt="GitHub Stats"&v=1/>
+    </td>
+    <td align="center" width="50%">
+<img src="https://github-readme-stats2-michelvittorias-projects.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&v=1" alt="Top Languages"&v=1/>    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=00ff00&fire=39ff14&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
