@@ -137,23 +137,47 @@ michel.vittoria@gmail.com
 <!-- Stats -->
 <div align="center">
 
-  <table align="center" border="0">
-    <tr>
-      <td align="center" style="padding: 5px;">
-        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&v=3" alt="GitHub Stats" height="170px"/>
-      </td>
-      <td align="center" style="padding: 5px;">
-        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&v=3" alt="Top Languages" height="170px"/>
-      </td>
-    </tr>
-  </table>
+  
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=00ff00&fire=39ff14&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="98%"/>
-  </p>
+<!-- Stats -->
 
-  <p align="center">
-    <img src="https://github-readme-activity-
+<table align="center">
+
+  <tr>
+
+    <td align="center" width="50%">
+
+      <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=00ff00&icon_color=39ff14&bg_color=0d1117&count_private=true&v=3" alt="GitHub Stats"/>
+
+    </td>
+
+    <td align="center" width="50%">
+
+      <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=00ff00&bg_color=0d1117&langs_count=8&v=3" alt="Top Languages"/>
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=00ff00&fire=39ff14&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+
+</p>
+
+
+
+<!-- Activity Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=00ff00&line=39ff14&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="98%"/>
+
+
+
+</div>
 
 ---
 
