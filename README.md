@@ -18,9 +18,11 @@
 
 ## 🧠 Sobre Mim
 
-Pesquisador em **Inteligência Artificial** e **Segurança da Informação**, com foco no desenvolvimento de sistemas inteligentes seguros e resilientes.  
+Pesquisador em **Inteligência Artificial** e **Segurança da Informação**.  
 
-Atuo na interseção entre **LLMs**, **Machine Learning** e **Cibersegurança**, especialmente em aplicações de IA para detecção de ameaças, análise de malware e proteção de sistemas críticos.
+Meu trabalho está na interseção entre **LLMs**, **Machine Learning** e **Cibersegurança**, com foco no desenvolvimento de soluções práticas que usam inteligência artificial para detectar ameaças, analisar malware e fortalecer a proteção de sistemas.
+
+Atualmente concentro meus estudos e pesquisas em **Advanced Threat Intelligence** e no uso de LLMs para detecção de ameaças avançadas.
 
 ---
 
