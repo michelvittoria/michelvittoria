@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Inteligência%20Artificial-16a34a?style=for-the-badge&logo=ai&logoColor=white" alt="IA"/>
   <img src="https://img.shields.io/badge/Cibersegurança-16a34a?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber"/>
-  <img src="https://img.shields.io/badge/Pesquisador-16a34a?style=for-the-badge&logo=researchgate&logoColor=white" alt="Pesquisador"/>
 </div>
 
 <br>
@@ -18,7 +17,7 @@
 
 ## 🧠 Sobre Mim
 
-Pesquisador em **Inteligência Artificial** e **Segurança da Informação**.  
+Estudando **Inteligência Artificial** e **Segurança da Informação**.  
 
 Meu trabalho está na interseção entre **LLMs**, **Machine Learning** e **Cibersegurança**, com foco no desenvolvimento de soluções práticas que usam inteligência artificial para detectar ameaças, analisar malware e fortalecer a proteção de sistemas.
 
