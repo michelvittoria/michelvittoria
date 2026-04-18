@@ -7,52 +7,52 @@
 
 <!-- Badges de Áreas de Atuação -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-16a34a?style=for-the-badge&logo=ai&logoColor=white" alt="IA"/>
-  <img src="https://img.shields.io/badge/Cibersegurança-16a34a?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber"/>
+  <img src="https://img.shields.io/badge/Artificial Intelligence-16a34a?style=for-the-badge&logo=ai&logoColor=white" alt="IA"/>
+  <img src="https://img.shields.io/badge/Information Security-16a34a?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber"/>
 </div>
 
 <br>
 
 ---
 
-## 🧠 Sobre Mim
+## 🧠 About Me
 
-Estudando **Inteligência Artificial** e **Segurança da Informação**.  
+Studying **Artificial Intelligence** and **Information Security**.
 
-Meu trabalho está na interseção entre **LLMs**, **Machine Learning** e **Cibersegurança**, com foco no desenvolvimento de soluções práticas que usam inteligência artificial para detectar ameaças, analisar malware e fortalecer a proteção de sistemas.
+My work is at the intersection of **LLMs**, **Machine Learning** and **Cybersecurity**, focusing on developing practical solutions that use artificial intelligence to detect threats, analyze malware, and strengthen system protection.
 
-Atualmente concentro meus estudos e pesquisas em **Advanced Threat Intelligence** e no uso de LLMs para detecção de ameaças avançadas.
+Currently concentrating my studies and research on **Advanced Threat Intelligence** and using LLMs for advanced threat detection.
 
 ---
 
-## 🎯 Áreas de Pesquisa
+## 🎯 Research Areas
 
-### 🤖 Inteligência Artificial
+### 🤖 Artificial Intelligence
 - Large Language Models (LLMs)
-- Aprendizado por Reforço
-- Visão Computacional
-- Processamento de Linguagem Natural
+- Reinforcement Learning
+- Computer Vision
+- Natural Language Processing
 
-### 🛡️ Cibersegurança
+### 🛡️ Cybersecurity
 - Pentesting & Red Teaming
-- Análise de Malware
-- Segurança de Aplicações Web
-- Forense Digital e Threat Intelligence
+- Malware Analysis
+- Web Application Security
+- Digital Forensics and Threat Intelligence
 
 ---
 
-## 🚀 Atualmente
+## 🚀 Currently
 
-- **Estudando**: Advanced Threat Intelligence  
-- **Pesquisando**: Aplicações de LLMs na Detecção de Ameaças Avançadas  
-- **Buscando**: Colaborações em projetos de IA + Cibersegurança  
+- **Studying:** Advanced Threat Intelligence
+- **Researching:** Applications of LLMs in Advanced Threat Detection
+- **Seeking:** Collaborations on AI + Cybersecurity projects 
 
 **Contato:**  
 📧 [michel.vittoria@techrealm.com.br](mailto:michel.vittoria@techrealm.com.br)
 
 ---
 
-## 🔬 Projetos em Destaque
+## 🔬 Featured Projects
 
 <table align="center">
   <tr>
@@ -92,7 +92,7 @@ Atualmente concentro meus estudos e pesquisas em **Advanced Threat Intelligence*
 
 ---
 
-## 🌐 Conecte-se
+## 🌐 Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michelvittoria/">
