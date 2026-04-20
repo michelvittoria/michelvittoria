@@ -74,20 +74,33 @@ Currently concentrating my studies and research on **Advanced Threat Intelligenc
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=16a34a&icon_color=16a34a&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=16a34a&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=16a34a&fire=16a34a&currStreakNum=16a34a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=michelvittoria&show_icons=true&theme=dark&title_color=16a34a&icon_color=16a34a&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="180" style="margin: 0 10px;"/>
   
+  <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=michelvittoria&layout=compact&theme=dark&title_color=16a34a&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180" style="margin: 0 10px;"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=16a34a&fire=16a34a&currStreakNum=16a34a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=16a34a&line=16a34a&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="95%"/>
+</div>
+
+<br>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=16a34a&fire=16a34a&currStreakNum=16a34a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=16a34a&line=16a34a&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="95%"/>
+
 </div>
 
 ---
