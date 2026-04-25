@@ -91,17 +91,6 @@ Currently concentrating my studies and research on **Advanced Threat Intelligenc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=16a34a&line=16a34a&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="95%"/>
 </div>
 
-<br>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=michelvittoria&theme=dark&background=0d1117&ring=16a34a&fire=16a34a&currStreakNum=16a34a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelvittoria&theme=github-compact&hide_border=true&color=16a34a&line=16a34a&point=ffffff&bg_color=0d1117" alt="Activity Graph" width="95%"/>
-
-</div>
 
 ---
 
