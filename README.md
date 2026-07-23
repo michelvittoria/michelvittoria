@@ -66,6 +66,11 @@ Currently concentrating my studies and research on **Advanced Threat Intelligenc
         <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=michelvittoria&repo=openclaw-security&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="OpenClaw Security"/>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/michelvittoria/mcp-browser-automation">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=michelvittoria&repo=mcp-browser-automation&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="OpenClaw Security"/>
+      </a>
+    </td>
   </tr>
 </table>
 
